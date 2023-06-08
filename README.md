@@ -1,6 +1,7 @@
-    <img height="180em" src="https://i.picasion.com/pic92/01e5a7c68fa73f0d8786edbb7c5c6ce7.gif">
+  
  Olá, sou Jessica silva
 Desenvolvedora Front-end
+  <img height="100em" src="https://i.picasion.com/pic92/01e5a7c68fa73f0d8786edbb7c5c6ce7.gif">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jessicasilva7&bg_color=d7e9bd&color=0f0a04&line=18341d&point=76ad77&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
