@@ -12,8 +12,9 @@ Desenvolvedora Front-end
 <div>
 <a href = "mailto:jessicasilva.zara78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/j%C3%A9ssica-silva-357810216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href "https://i.picasion.com/pic92/01e5a7c68fa73f0d8786edbb7c5c6ce7.gif"></a>
 </div>
- <a href "https://i.picasion.com/pic92/01e5a7c68fa73f0d8786edbb7c5c6ce7.gif">
+
 <!---
 jessicasilva7/jessicasilva7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
